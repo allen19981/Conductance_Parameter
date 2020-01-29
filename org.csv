@@ -1,21 +1,21 @@
-﻿num,parameters
-1,gbar_Im
-2,gbar_Ih
-3,gbar_NaTs
-4,gbar_Nap
-5,gbar_K_P
-6,gbar_K_T
-7,gbar_SK
-8,gbar_Kv3_1
-9,gbar_Ca_HVA
-10,gbar_Ca_LVA
-11,gamma_CaDynamics
-12,decay_CaDynamics
-13,soma_g_pas
-14,axon_g_pas
-15,dend_g_pas
-16,apic_g_pas
-17,gbar_NaV
-18,gbar_Kd
-19,gbar_Kv2like
-20,gbar_Im_v2
+﻿num,parameters,cre_line,short,colour,shared,gbar_Kv3_1,gbar_K_T,gbar_SK,gbar_Ih,gbar_Ca_HVA,gbar_Ca_LVA
+1,gbar_Im,Htr3a-Cre_NO152__L2/3__inh,Htr3a L2/3,#DF6BC6,gbar_Kv3_1,Kcnc1,Kcnd2,Kcnn1,Hcn1,Cacna1a,Cacna1g
+2,gbar_Ih,Htr3a-Cre_NO152__L5__inh,Htr3a L5,#D12DAD,gbar_K_T,Kcnc2,Kcnd3,Kcnn2,Hcn2,Cacna1b,Cacna1i
+3,gbar_NaTs,Nr5a1-Cre__L4__exc,Nr5a1 L4,#43BCA9,gbar_SK,Kcnc3,,Kcnn3,Hcn3,Cacna1c,
+4,gbar_Nap,Ntsr1-Cre_GN220__L6__exc,Ntsr1 L6,#70849A,gbar_Ih,Kcnc4,,,,Cacna1d,
+5,gbar_K_P,Pvalb-IRES-Cre__L2/3__inh,Pvalb L2/3,#8E2331,gbar_Ca_HVA,,,,,,
+6,gbar_K_T,Pvalb-IRES-Cre__L4__inh,Pvalb L4,#CD3449,gbar_Ca_LVA,,,,,,
+7,gbar_SK,Pvalb-IRES-Cre__L5__inh,Pvalb L5,#DB707E,,,,,,,
+8,gbar_Kv3_1,Pvalb-IRES-Cre__L6__inh,Pvalb L6,#EBB1b9,,,,,,,
+9,gbar_Ca_HVA,Rbp4-Cre_KL100__L4__exc,Rbp4 L4,#009B81,,,,,,,
+10,gbar_Ca_LVA,Rbp4-Cre_KL100__L5__exc,Rbp4 L5,#00E5BF,,,,,,,
+11,gamma_CaDynamics,Scnn1a-Tg2-Cre__L4__exc,Scnn1a-Tg2 L4,#59B7B4,,,,,,,
+12,decay_CaDynamics,Scnn1a-Tg3-Cre__L2/3-L4__exc,Scnn1a-Tg3 L2/3-L4,#65AA8A,,,,,,,
+13,soma_g_pas,Sst-IRES-Cre__L1-L2/3__inh,Sst L1-L2/3,#B35F1F,,,,,,,
+14,axon_g_pas,Sst-IRES-Cre__L5__inh,Sst L5,#DD8440,,,,,,,
+15,dend_g_pas,Sst-IRES-Cre__L6__inh,Sst L6,#E9B085,,,,,,,
+16,apic_g_pas,,,,,,,,,,
+17,gbar_NaV,,,,,,,,,,
+18,gbar_Kd,,,,,,,,,,
+19,gbar_Kv2like,,,,,,,,,,
+20,gbar_Im_v2,,,,,,,,,,
