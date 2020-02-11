@@ -1,0 +1,16 @@
+cre_line,short,colour,class,subclass,subclass_colour,class_colour
+Htr3a-Cre_NO152__L2/3__inh,Htr3a L2/3,#DF6BC6,inh,Htr3a,#DF6BC6,#ff0000
+Htr3a-Cre_NO152__L5__inh,Htr3a L5,#D12DAD,inh,Htr3a,#DF6BC6,#ff0000
+Nr5a1-Cre__L4__exc,Nr5a1 L4,#43BCA9,exc,Nr5a1,#43BCA9,#0000ff
+Ntsr1-Cre_GN220__L6__exc,Ntsr1 L6,#70849A,exc,Ntsr1,#70849A,#0000ff
+Pvalb-IRES-Cre__L2/3__inh,Pvalb L2/3,#8E2331,inh,Pvalb,#8E2331,#ff0000
+Pvalb-IRES-Cre__L4__inh,Pvalb L4,#CD3449,inh,Pvalb,#8E2331,#ff0000
+Pvalb-IRES-Cre__L5__inh,Pvalb L5,#DB707E,inh,Pvalb,#8E2331,#ff0000
+Pvalb-IRES-Cre__L6__inh,Pvalb L6,#EBB1b9,inh,Pvalb,#8E2331,#ff0000
+Rbp4-Cre_KL100__L4__exc,Rbp4 L4,#009B81,exc,Rbp4,#009B81,#0000ff
+Rbp4-Cre_KL100__L5__exc,Rbp4 L5,#00E5BF,exc,Rbp4,#009B81,#0000ff
+Scnn1a-Tg2-Cre__L4__exc,Scnn1a-Tg2 L4,#59B7B4,exc,Scnn1a,#59B7B4,#0000ff
+Scnn1a-Tg3-Cre__L2/3-L4__exc,Scnn1a-Tg3 L2/3-L4,#65AA8A,exc,Scnn1a,#65AA8A,#0000ff
+Sst-IRES-Cre__L1-L2/3__inh,Sst L1-L2/3,#B35F1F,inh,Sst,#B35F1F,#ff0000
+Sst-IRES-Cre__L5__inh,Sst L5,#DD8440,inh,Sst,#B35F1F,#ff0000
+Sst-IRES-Cre__L6__inh,Sst L6,#E9B085,inh,Sst,#B35F1F,#ff0000
